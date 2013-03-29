@@ -1,9 +1,11 @@
 {
-  "name": "backbonejs",
-  "repo": "madebybottle/backbonejs",
+  "name": "backbone",
+  "repo": "madebybottle/backbone",
   "description": "A wrapped version of Backbone.js for Component",
   "version": "1.0.0",
-  "dependencies": {},
+  "dependencies": {
+    "madebybottle/lodash": "*"
+  },
   "development": {},
   "scripts": [
     "index.js",
