@@ -2,7 +2,7 @@
   "name": "backbonejs",
   "repo": "madebybottle/backbonejs",
   "description": "A wrapped version of Backbone.js for Component",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "dependencies": {},
   "development": {},
   "scripts": [
