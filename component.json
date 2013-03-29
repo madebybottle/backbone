@@ -1,0 +1,12 @@
+{
+  "name": "backbonejs",
+  "repo": "madebybottle/backbonejs",
+  "description": "A wrapped version of Backbone.js for Component",
+  "version": "0.0.1",
+  "dependencies": {},
+  "development": {},
+  "scripts": [
+    "index.js",
+    "backbone.js"
+  ]
+}
